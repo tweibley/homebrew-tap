@@ -1,6 +1,6 @@
 cask "hypermnesia" do
   version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "2ad05f45190531cff799c58af7a20ad45c60820cef5d76f1d4e6ea5695d273ca"
 
   url "https://github.com/tweibley/hypermnesia/releases/download/v#{version}/Hypermnesia-#{version}.zip",
       verified: "github.com/tweibley/hypermnesia/"
